@@ -1,0 +1,25 @@
+{
+    "name": "kodillaFE_week11ex02_js_this",
+    "version": "1.0.0",
+    "description": "This and Self in JavaScript",
+    "main": "index.js",
+    "scripts": {
+      "test": "test"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/psdubowik/kodilla-w11e02-js-this.git"
+    },
+    "keywords": [
+      "this",
+      "self",
+      "javascript"
+    ],
+    "author": "PSD",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/psdubowik/kodilla-w11e02-js-this/issues"
+    },
+    "homepage": "https://github.com/psdubowik/kodilla-w11e02-js-this#readme"
+  }
+  
